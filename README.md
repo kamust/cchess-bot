@@ -5,15 +5,15 @@
 
 ### 开始棋局
 
-<img src="./images/demo1.jpg" style="zoom:25%;" />
+<img src="./images/demo1.jpg" style="width:200px;" />
 
 
 ### 悔棋功能
 
-<img src="./images/demo2.jpg" style="zoom: 25%;" />
+<img src="./images/demo2.jpg" style="width:200px;" />
 
 
 ### 规则判断
 
-<img src="./images/demo3.jpg" style="zoom:25%;" />
+<img src="./images/demo3.jpg" style="width:200px;" />
 
